@@ -17,7 +17,7 @@ public class Dictionary_Chapter21 {
 		fruit.put("grape", "ぶどう");
 		fruit.put("muscat", "マスカット");
 		fruit.put("cherry", "さくらんぼ");
-		
+		fruit.put("orange", "みかん");
 		return fruit;
 	}
 	
