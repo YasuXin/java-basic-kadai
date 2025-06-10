@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Jyanken_Chapter28 {
 	private HashMap<String, String> jyankenMap = new HashMap<>();
 	
-	public Jyanken_Chapter28() {
+	{
 		this.jyankenMap.put("r", "グー");
 		this.jyankenMap.put("s", "チョキ");
 		this.jyankenMap.put("p", "パー");
